@@ -4,21 +4,24 @@ function setup () {
 }
 
 function draw() {
-    background("#f9beff");
+    background("#00dbc4");
     /*fill();
     noFill();
     stroke();
     noStroke();
     strokeWeight();*/ 
-    
+    fill("#ff4dc6");
   arc(300, 200, 350, 350, 2.5, 1);
+    
+    fill("white");
     circle(300, 200, 250);//face
     
+    fill("black");
     triangle(380, 190, 330, 170, 480, 100);
     
-    triangle(290, 165, 110, 50, 230, 200)
+    triangle(290, 165, 110, 50, 230, 200);
     
-    triangle()
+    triangle(300,200, 250, 250, 350,250)
     /*ellipse (200, 100, 10, 150);*/ 
 
 }

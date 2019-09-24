@@ -10,7 +10,8 @@ function draw() {
     stroke();
     noStroke();
     strokeWeight();*/ 
-    fill("#ff4dc6");
+    var hairColor = "#ff4dc6"
+    fill(hairColor);
   arc(300, 200, 350, 350, 2.5, 1);
     
     fill("white");

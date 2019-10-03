@@ -28,6 +28,17 @@ function draw(){
     strokeWeight(10);
     textFont("Grenze");
     text("spooky time", 20, 100);
+    
+    textAlign(LEFT);
+    textSize(20);
+    fill('black');
+    textStyle(BOLD);
+    stroke('purple');
+    strokeWeight(20);
+    textFont("futura");
+    text("or do uu mean spoopy time.", 20, 340);
+    
+    
 
     
     

@@ -31,9 +31,9 @@ function draw(){
     
     textAlign(LEFT);
     textSize(20);
-    fill('black');
+    fill('green');
     textStyle(BOLD);
-    stroke('purple');
+    stroke('black');
     strokeWeight(20);
     textFont("futura");
     text("or do uu mean spoopy time.", 20, 340);

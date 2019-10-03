@@ -25,7 +25,7 @@ function draw() {
     fill("black");
     triangle(x + 80, y - 10, x + 30, y - 30, x + 180, y - 100);
     
-    triangle(x - 10, y - 35, x - 190, y - 150, x - 70 , 200);
+    triangle(x - 10, y - 35, x - 190, y - 150, x - 70 , y);
     
     triangle(x, y, x - 50, y + 50, x + 50,y + 50)
     /*ellipse (200, 100, 10, 150);*/ 
